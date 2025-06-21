@@ -1,2 +1,11 @@
 database/*
 .venv
+
+# Ignorar a pasta de dados dos candidatos
+code/candidatos_2024/
+
+# Ignorar a pasta de checkpoints do Jupyter
+code/.ipynb_checkpoints/
+
+# Ignorar outras pastas comuns do Python
+__pycache__/
